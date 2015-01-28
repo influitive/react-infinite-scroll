@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-scroll",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "",
   "main": "src/react-infinite-scroll.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/guillaumervls/react-infinite-scroll.git"
+    "url": "git://github.com/influitive/react-infinite-scroll.git"
   },
   "keywords": [
     "infinite",
     "scroll",
     "react"
   ],
-  "author": "guillaumervls",
+  "author": "influitive",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guillaumervls/react-infinite-scroll/issues"
+    "url": "https://github.com/influitive/react-infinite-scroll/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
